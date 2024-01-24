@@ -1,6 +1,7 @@
 <div align="center">
   <img src="docs/images/tobeanalytics-positive-rgb.png"><br>
 </div>
+
 -----------------
 
 # smana: repairing tool for time series with weekly seasonality
