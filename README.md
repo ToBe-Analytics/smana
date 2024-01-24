@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/images/tobeanalytics-positive-rgb.png"><br>
+  <img src="https://github.com/ToBe-Analytics/smana/blob/main/docs/images/tobeanalytics-positive-rgb.png?raw=true"><br>
 </div>
 
 -----------------
