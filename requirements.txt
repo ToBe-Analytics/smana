@@ -1,0 +1,3 @@
+statsmodels>=0.12,<0.15
+pandas>=1.4,<2.3
+numpy>=1.22,<1.27
