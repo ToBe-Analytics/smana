@@ -53,7 +53,20 @@ standard week holidays; for this reason, it is recommended to leverage this feat
 
 ## How to get it
 
-Coming soon...
+The source code is currently hosted on GitHub at:
+https://github.com/ToBe-Analytics/smana
+
+Binary installers for the latest released version are available at the [Python
+Package Index (PyPI)](https://pypi.org/project/smana).
+
+```sh
+# PyPI
+pip install -i https://test.pypi.org/simple/ smana
+```
+
+The list of changes to `smana` between each release can be found
+[here](https://github.com/ToBe-Analytics/smana/releases). For full
+details, see the commit logs at https://github.com/ToBe-Analytics/smana.
 
 ## Documentation
 
