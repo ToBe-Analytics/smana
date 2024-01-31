@@ -61,7 +61,7 @@ Package Index (PyPI)](https://pypi.org/project/smana).
 
 ```sh
 # PyPI
-pip install -i https://test.pypi.org/simple/ smana
+pip install -i https://pypi.org/simple/ smana
 ```
 
 The list of changes to `smana` between each release can be found
