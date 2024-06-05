@@ -111,6 +111,8 @@ If False, return a copy. Otherwise, do operation inplace and the method returns 
 * **pandas.DataFrame or None**  
 DataFrame restored or None if `inplace` is set to True.
 
+Check out some example of usage of `smana` [here](examples).
+
 ## License
 [BSD 3](LICENSE.txt)
 
