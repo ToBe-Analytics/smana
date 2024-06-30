@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: ToBe Analytics
+title: "smana: repairing tool for time series with weekly seasonality"
+version: 0.1.2
+date-released: 2024-06-30
